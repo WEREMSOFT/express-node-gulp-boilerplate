@@ -1,0 +1,31 @@
+{
+  "name": "express-node-gulp-boilerplate",
+  "version": "1.0.0",
+  "description": "Base application to create express webapps",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WEREMSOFT/express-node-gulp-boilerplate.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongodb"
+  ],
+  "author": "Pablo Weremczuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WEREMSOFT/express-node-gulp-boilerplate/issues"
+  },
+  "homepage": "https://github.com/WEREMSOFT/express-node-gulp-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "fs": "0.0.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
