@@ -3,4 +3,5 @@
 node_modules
 .npm
 *.min.js
+.idea
 
