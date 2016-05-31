@@ -23,7 +23,7 @@ gulp.task('server', function() {
  * $ gulp
  * description: start the development environment
  */
-gulp.task('default', function() {
+gulp.task('dev', function() {
 	gulp.run('server');
 
 	gulp.watch(['./app.js', './routes/**/*.js', './public/**/*.*'], function() {
