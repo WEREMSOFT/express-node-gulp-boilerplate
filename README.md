@@ -12,3 +12,7 @@ There is a gulp thask that reloads the server when something changes. To run it,
 
 # Starting the server
 See the Gulp Task section above.
+
+# Configuration file
+Set your vars in the configuration file .env. See how the port is configured on the app.js file. 
+*Important: * Rename the .env_example to .env. Due to this file is intended to contains sentitive data (database user name and password), is .gitignored.
